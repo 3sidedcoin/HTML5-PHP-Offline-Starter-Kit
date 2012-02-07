@@ -1,0 +1,4 @@
+Options +FollowSymLinks -Indexes -MultiViews
+RewriteEngine on
+#
+AddType text/cache-manifest .appcache
