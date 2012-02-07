@@ -18,6 +18,6 @@ Features:
 
 Roadmap:
 In next versions, we aim to cover the following -
-1. Update and edit data
-2. Sync Data-URI
-3. Backup javascript local storage
+1. Update and edit data in Offline mode and sync when internet connection available
+2. Sync Data-URI from localStorage to database
+3. Fall-back mechanism with javascript localstorage
